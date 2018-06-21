@@ -1,0 +1,13 @@
+test\eventbus\EchoServiceVerticle.class
+test\eventbus\RemoveServiceVerticle.class
+test\http\call\VertxWebClient.class
+test\eventbus\VertxStart.class
+io\vertx\demo\Test.class
+test\eventbus\WebVerticle.class
+io\vertx\demo\MainRestMongo.class
+io\vertx\demo\MainVerticle.class
+io\vertx\simple\restapi\RestApiVerticle.class
+io\vertx\run\Runner.class
+io\vertx\demo\MainNotStart.class
+io\vertx\simple\restapi\RestApiClient.class
+io\vertx\demo\MainMysql.class
